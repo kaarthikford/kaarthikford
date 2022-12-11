@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaarthikford
 - 👀 I’m interested in data science, research and development
-- 🌱 I’m currently learning R,Tableau & Mysql
+- 🌱 I’m skilled in R,Python,MongoDB,Tableau & Mysql
 - 💞️ I’m looking to collaborate on analysis group to get good knowledge
 - 📫 How to reach me kaarthik.ford@gmail.com
 
